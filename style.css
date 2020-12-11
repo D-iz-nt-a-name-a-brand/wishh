@@ -47,7 +47,7 @@
     transform: perspective(400px)rotateY(-90deg);
 }
 .curtain{
-    background-color: rgba(74, 75, 73, 0.3);
+    background-color: rgba(70, 75, 73, 0.3);
     font-family: Arial, Helvetica, sans-serif;
     position: absolute;
     top:0;
